@@ -1,3 +1,5 @@
 This is my first file.
 
 This is line 3. This is an example for pulling repos into VScode.
+
+Merging from local to remote.
